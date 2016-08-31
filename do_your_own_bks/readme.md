@@ -1,7 +1,7 @@
 
 INSTRUCTIONS
 
-This code will build 10 BKS Tables, each one using a 5x2 cross validation training dataset. These will be the 10 classifier modelsused in the training step.
+This code will build 10 BKS Tables, each one using a 5x2 cross validation training dataset. These will be the 10 classifier models used in the training step.
 
 To run the code, you just need to run demo_table_construction. Then, it will read output images 
 from a set of copy-move forgeries classifiers (we used 8 in our work) and build BKS Tables. You need to download the aux folder containing the 5x2 cross validation data, the output images and also the datasets used. Please check the readme in the root folder of this project where you can download the aux data.
