@@ -36,12 +36,10 @@ for i=1:size(technique_binary_image,1)
 	end
 end
 
-%agora basta calcular as metricas- a acuracia e normalizada
 tpr=(true_positives)/totalClone;
 fpr=(false_positives)/totalNormal;
 acc = (tpr + (1 - fpr))/2;
 
-%matlab nao sabe fazer 0/num, ele retorna sempre NAN, troco NAN por 0
 if isnan(tpr)
    tpr=0; 
 end
