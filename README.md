@@ -7,9 +7,9 @@ INSTRUCTIONS
 
 The source code is divided in two parts:
 
- 1. Repeat Experiments: you can re-run our experiments and check the eddectiveness of our proposed approach in a 5X2 cross validation scenario on the CPHPALL dataset. Results can vary a little bit depending on the precison used to calculate the probabilities.
+1. Repeat Experiments: you can re-run our experiments and check the eddectiveness of our proposed approach in a 5X2 cross validation scenario on the CPHPALL dataset. Results can vary a little bit depending on the precison used to calculate the probabilities.
 
- 2.Do your own BKS: Here you can check how the multiscale BKS is built and also can change the code to include your images and/or compare your approach against ours.
+2. Do your own BKS: Here you can check how the multiscale BKS is built and also can change the code to include your images and/or compare your approach against ours.
 
 In both cases you must download a folder called aux. Available to download in
 
