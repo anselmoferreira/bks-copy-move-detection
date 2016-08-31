@@ -12,7 +12,7 @@ Scale 1:2 	scale1_2= impyramid(image, 'reduce');
 
 Scale 1/4: 	scale1_4= impyramid(scale1_2, 'reduce');
 
-After you build the BKS Tables, you need to apply the Random forests and Support Vector Regression on them. For this, we have two R scripts: GridSearch_rf.R and gridSearch_svr.R. Please create a folder called bks_new_tables and then they will run OK. If you want to use them to test images please take a look in our paper what are the parameters (c,g) and (nt,mry) of support vector regression and random forests used for compressed and uncompressed images.
+After you build the BKS Tables, you need to apply the Random forests and Support Vector Regression on them. For this, we have two R scripts: GridSearch_rf.R and GridSearch_svr.R. Please create a folder called bks_new_tables and then they will run OK. If you want to use them to test images please take a look in our paper what are the parameters (c,g) and (nt,mry) of support vector regression and random forests used for compressed and uncompressed images.
 
 Please e-mail me any problems or suggestions: anselmo.ferreira@gmail.com
 
