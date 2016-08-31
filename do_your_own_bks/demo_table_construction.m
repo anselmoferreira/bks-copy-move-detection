@@ -1,0 +1,22 @@
+system('mkdir bks_original_tables');
+main_table_construction('CPHPALL', 1);
+disp('fold1 training finished');
+main_table_construction('CPHPALL', 2);
+disp('fold2 training finished');
+main_table_construction('CPHPALL', 3);
+disp('fold3 training finished');
+main_table_construction('CPHPALL', 4);
+disp('fold4 training finished');
+main_table_construction('CPHPALL', 5);
+disp('fold5 training finished');
+main_table_construction('CPHPALL', 6);
+disp('fold6 training finished');
+main_table_construction('CPHPALL', 7);
+disp('fold7 training finished');
+main_table_construction('CPHPALL', 8);
+disp('fold8 training finished');
+main_table_construction('CPHPALL', 9);
+disp('fold9 training finished');
+main_table_construction('CPHPALL', 10);
+disp('fold10 training finished');
+
