@@ -15,7 +15,7 @@ In both cases you must download a folder called aux. Available to download in ft
 
 If you use Filezilla to download our file called aux, you must configure it according to the instructions in folder called instructions_filezilla in this git repository.
 
-Please extract this folder in the same folder as the two folders extracted here are in your PC.
+Please extract this folder in the same folder as the source code folders are in your PC.
 
 If you use this code in your research don't forget to cite our work:
 
