@@ -1,5 +1,5 @@
 # bks-copy-move-detection
-Source code related to the paper "Behavior Knowledge Space-Based Fusion for Copy-Move Forgery Detection"
+Source code related to our scientific paper "Behavior Knowledge Space-Based Fusion for Copy-Move Forgery Detection", published by IEEE Transactions on Image Processing.
 
 Author: Anselmo Ferreira
 
@@ -22,7 +22,7 @@ If you use this code in your research don't forget to cite our work:
 @ARTICLE{7517389, 
 author={A. Ferreira and S. C. Felipussi and C. Alfaro and P. Fonseca and J. E. Vargas-Muñoz and J. A. dos Santos and A. Rocha}, 
 journal={IEEE Transactions on Image Processing}, 
-title={Behavior Knowledge Space-Based Fusion for Copy #x2013;Move Forgery Detection}, 
+title={Behavior Knowledge Space-Based Fusion for Copy-Move Forgery Detection}, 
 year={2016}, 
 volume={25}, 
 number={10}, 
