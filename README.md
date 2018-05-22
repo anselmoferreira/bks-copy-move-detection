@@ -32,6 +32,7 @@ doi={10.1109/TIP.2016.2593583},
 ISSN={1057-7149}, 
 month={Oct},}
 
+You can aulso download aux folder directly from your browser at ftp://www.recod.ic.unicamp.br/2016-tip-copy-move-dataset
 
 Any question, problems or suggestions can be reported to me. My e-mail is anselmo.ferreira@gmail.com
 
