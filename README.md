@@ -11,9 +11,7 @@ The source code is divided in two parts:
 
 2. Do your own BKS: Here you can check how the multiscale BKS is built and also can change the code to include your images and/or compare your approach against ours.
 
-In both cases you must download a folder called aux. Available to download in ftp://www.recod.ic.unicamp.br/2016-tip-copy-move-dataset
-
-If you use Filezilla to download our file called aux, you must configure it according to the instructions in folder called instructions_filezilla in this git repository.
+In both cases you must download a folder called aux. Available to download at https://www.dropbox.com/sh/2sa1xbukql23bou/AACeJVHLEXucQKb-4-HwXvtGa?dl=0.
 
 Please extract this folder in the same folder as the source code folders are in your PC.
 
